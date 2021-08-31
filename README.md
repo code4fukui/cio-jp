@@ -4,7 +4,7 @@
 
 ## データ
 
-- [Markdown](discussionpaper.md)
+- [政府CIOポータル ディスカッションペーパー Markdown](discussionpaper.md)
 - [HTML](https://code4fukui.github.io/cio-jp/discussionpaper.html)
 - [CSV](https://code4fukui.github.io/cio-jp/discussionpaper.csv)
 
