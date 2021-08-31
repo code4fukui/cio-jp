@@ -1,0 +1,31 @@
+﻿name,datetime,description,url
+ゼロトラストネットワークを実現するための政府職員のアカウントやアセットの管理,2021-08-31T11:01:00+09:00,政府情報システムにおいてゼロトラストネットワークを実現するために必要な「政府職員のアカウントやアセットの管理」の仕組みや運用について、要点をまとめました。,https://cio.go.jp/dp2021_11
+How to manage Government officers’ accounts and assets to achieve Zero Trust Network,2021-08-31T11:00:00+09:00,How tSummary of how to manage and operate Government officers’ accounts and assets to achieve Zero Trust Network in the Government informati,https://cio.go.jp/node/2807
+政府情報システムの移行のためのデータポータビリティ,2021-08-31T10:51:00+09:00,古い政府情報システムから新システムに切り替えるには，古いシステムに蓄積された情報資産を新しいシステムに移行することがしばしば必要になります。政府情報システムの調達にあたって考慮すべきデータポータビリティを解説します。,https://cio.go.jp/dp2021_10
+Data portability for the migration of government information systems,2021-08-31T10:50:00+09:00,Switching from old government information systems to new systems often requires migrating information assets stored in old systems to new sy,https://cio.go.jp/node/2805
+クラウドサービス（SaaS）活用のためのネットワーク設計,2021-08-31T10:41:00+09:00,SaaSの利用を円滑化する各種のトラフィック制御技術の比較及び適用領域を示すとともに、それらの技術を利用する際に考慮すべきセキュリティ上の注意点について整理しました。,https://cio.go.jp/dp2021_09
+Network design to leverage cloud services (SaaS) ,2021-08-31T10:40:00+09:00,Government agencies would be able to improve operational efficiency and realize interactive communications by leveraging Software-as-a-Servi,https://cio.go.jp/node/2803
+拠点間ネットワークに適用可能なオーバーレイネットワークの設計と運用,2021-08-31T10:31:00+09:00,オーバーレイネットワーク技術の利点を活かすためには、その用途や構成により適用すべきオーバーレイネットワーク技術及び運用方法が異なります。これらの点をふまえ、本ディスカッションペーパーはオーバーレイネットワークの設計と運用について述べます。,https://cio.go.jp/dp2021_08
+Design and operation of overlay networks applicable to site-to-site communications,2021-08-31T10:30:00+09:00,IT systems in government ministry and agency often deploy a closed network to guarantee its system and information security.,https://cio.go.jp/node/2801
+メタデータルールと利用イメージの検討,2021-08-31T10:21:00+09:00,メタデータ導入や活用の考え方を示すとともに、その導入や活用のための方法を提案します。,https://cio.go.jp/dp2021_07
+Discussion for the metadata rule and implementation,2021-08-31T10:20:00+09:00,"Metadata, the data that manages data, is important for searching and managing data.",https://cio.go.jp/node/2799
+データ人材フレームワークの設計,2021-08-31T10:11:00+09:00,データ人材の人材像とスキルセットを明確にするとともに、評価方法について検討を行い、その結果としてデータ人材フレームワーク案を提案します。,https://cio.go.jp/dp2021_06
+Proposal for Data professional framework,2021-08-31T10:10:00+09:00,The lack of talent in the data sector is a major problem.,https://cio.go.jp/node/2797
+デジタル社会実現のためのアーキテクチャ設計,2021-08-31T10:01:00+09:00,アーキテクチャ作成や活用の考え方を示すとともに、その導入方法の試行内容を整理しました。,https://cio.go.jp/dp2021_05
+Architecture design methodology for the digital society,2021-08-31T10:00:00+09:00,"In a digital society, services and systems need to be considered across domains.",https://cio.go.jp/node/2795
+自治体のSNS利用と個人情報へのアクセス,2021-07-29T18:00:01+09:00,自治体がLINE等のSNSを業務に利用する際に考慮すべき点や今後の課題について取りまとめました。,https://cio.go.jp/dp2021_04
+Appropriate use of SNS by local governments: TOS & privacy protection,2021-07-29T18:00:00+09:00,The paper describes issues associated with local governments' use of SNS and suggests appropriate use for privacy protection.,https://cio.go.jp/node/2791
+ベース・レジストリとしての住所・所在地マスターデータ整備について,2021-05-31T18:00:12+09:00,様々な場面で参照される住所・所在地の情報をベース・レジストリとして整備・更新するにあたり、検討事項を取りまとめました。,https://cio.go.jp/dp2021_03
+Development of address database as a base registry,2021-05-31T18:00:11+09:00,We have explained the issues to be considered when developing and updating the address data that is referred to in various situations as a b,https://cio.go.jp/node/2773
+政府情報システムに係る IT資産管理の必要性について,2021-05-31T18:00:02+09:00,IT資産管理の必要性と政府情報システムにおけるIT資産管理に係る課題とその対応策について取りまとめました。,https://cio.go.jp/dp2021_02
+Necessity of Japanese Government IT asset management,2021-05-31T18:00:01+09:00,"We had explained the necessity, issues and countermeasures in Japanese Government IT asset management.",https://cio.go.jp/node/2771
+行政機関におけるサービスデザインの利活用と優良事例,2021-04-07T18:41:00+09:00,サービスデザインの考え方や手法をうまく取り入れ、利用者目線で構築された優良事例をとりあげ、その成功要因や学びをとりまとめました。,https://cio.go.jp/dp2021_01
+Best practices to Service Design in Public Sectors,2021-04-07T18:40:00+09:00,"We researched and analyzed success cases with the ideas and methods of service design and user’s perspectives, summarized as this discussion",https://cio.go.jp/node/2759
+自治体からの通知物デジタル化と、それにより加速する民間サービスへの連携,2020-06-26T00:04:00+09:00,多くの自治体が、円滑に民間のSNS等広く普及したツールを住民とのコミュニケーションに活用できるよう、民間サービスの利用について利用方法やコンテンツの標準化を図る取り組みについて取りまとめました。,https://cio.go.jp/dp2020_02
+"Digitization of notifications from local governments, and cooperation with private services to accelerate the process",2020-06-26T00:03:01+09:00,"This paper describes the standardization method of contents and utilization of such commercial services, to facilitate the effi",https://cio.go.jp/node/2715
+政府情報システムにおけるゼロトラスト適用に向けた考え方,2020-06-26T00:03:00+09:00,境界型セキュリティの限界を示し、ゼロトラストと呼ばれるこれからのセキュリティの考え方を紹介し、政府情報システムにおけるゼロトラストの適用の取り組みを取りまとめました。,https://cio.go.jp/dp2020_03
+Approach to Zero Trust deployment in Japanese Government Information System,2020-06-26T00:02:01+09:00,The modern concept of security called Zero Trust could be consdiered to overcome the limits of current perimeter security.,https://cio.go.jp/node/2714
+政府情報システムにおけるクラウド設置場所等に関する考え方,2020-06-26T00:02:00+09:00,政府情報システムが高度化、複雑化するパブリック・クラウドの利用を検討する際において、クラウドサービスが「海外にあることが特に問題ないと認められる場合」の考え方を、「利用者データの可用性」、「業務サービスの継続性」、「データ保護」、「争訟リスク」の各々の観点から取りまとめました。,https://cio.go.jp/dp2020_04
+Concept of locational consideration of cloud service and data in government information system,2020-06-26T00:01:01+09:00,,https://cio.go.jp/node/2713
+AIシステムにおけるデータ利用の特性と取扱い上の留意点,2020-06-26T00:01:00+09:00,AIを政府情報システムまたは政府が提供するサービス等で活用する際に、リスク度に応じて考慮するべきAIの学習データに関する透明性の確保、偏り（バイアス）の排除、データ加工の来歴保管の必要性、権利関係についてAIを用いたシステムに求める検討事項および考え方を取りまとめました。,https://cio.go.jp/dp2020_01
+Characteristics of data use in AI system and Consideration in data handling,2020-06-26T00:00:01+09:00,,https://cio.go.jp/node/2711
