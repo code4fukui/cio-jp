@@ -1,4 +1,4 @@
-# stdwords-jp
+# cio-jp
 
 政府CIOポータルの[ディスカッションペーパー](https://cio.go.jp/dp)まとめ
 
