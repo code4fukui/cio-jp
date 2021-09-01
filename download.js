@@ -10,7 +10,7 @@ const download = async (path, url) => {
   await Deno.writeFile(path + fn, await fetchBin(url));
 };
 
-const list = CSV.toJSON(await CSV.fetch("./discussionpaper.csv"));
+const list = CSV.toJSON(await CSV.fetch("./scraped2.csv"));
 for (const d of list) {
   await download("pdf/", d.pdf);
   await download("docx/", d.docx);

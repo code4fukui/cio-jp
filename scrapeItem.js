@@ -60,5 +60,5 @@ for (const d of list) {
   }
 }
 
-await Deno.writeTextFile("discussionpaper.csv", CSV.stringify(data));
+await Deno.writeTextFile("scraped2.csv", CSV.stringify(data));
 console.log(data.length);
