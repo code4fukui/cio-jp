@@ -4,9 +4,14 @@
 
 ## データ
 
-- [Markdown](discussionpaper.md)
+- [政府CIOポータル ディスカッションペーパー Markdown](discussionpaper.md)
 - [HTML](https://code4fukui.github.io/cio-jp/discussionpaper.html)
 - [CSV](https://code4fukui.github.io/cio-jp/discussionpaper.csv)
+
+## 関連
+
+- [政府CIOポータルの標準ガイドライン群用語集](https://github.com/code4fukui/stdwords-jp)
+- [ベースレジストリ](https://github.com/code4fukui/BaseRegistry)
 
 ## how to make
 
