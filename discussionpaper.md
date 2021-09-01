@@ -64,6 +64,8 @@ SaaSの利用を円滑化する各種のトラフィック制御技術の比較�
 - name_en: Discussion for the metadata rule and implementation
 - description_en: Metadata, the data that manages data, is important for searching and managing data.
 - url_en: https://cio.go.jp/node/2799
+- pdf2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_07_att.pdf
+- docx2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_07_att.docx
 
 ## データ人材フレームワークの設計
 
@@ -77,6 +79,8 @@ SaaSの利用を円滑化する各種のトラフィック制御技術の比較�
 - name_en: Proposal for Data professional framework
 - description_en: The lack of talent in the data sector is a major problem.
 - url_en: https://cio.go.jp/node/2797
+- pdf2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_06_att.pdf
+- docx2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_06_att.docx
 
 ## デジタル社会実現のためのアーキテクチャ設計
 
@@ -90,6 +94,8 @@ SaaSの利用を円滑化する各種のトラフィック制御技術の比較�
 - name_en: Architecture design methodology for the digital society
 - description_en: In a digital society, services and systems need to be considered across domains.
 - url_en: https://cio.go.jp/node/2795
+- pdf2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_05_att.pdf
+- docx2: https://cio.go.jp/sites/default/files/uploads/documents/dp2021_05_att.docx
 
 ## 自治体のSNS利用と個人情報へのアクセス
 
@@ -179,7 +185,6 @@ IT資産管理の必要性と政府情報システムにおけるIT資産管理�
 - pdf: https://cio.go.jp/sites/default/files/uploads/documents/dp2020_04.pdf
 - docx: https://cio.go.jp/sites/default/files/uploads/documents//dp2020_04.docx
 - name_en: Concept of locational consideration of cloud service and data in government information system
-- description_en: 
 - url_en: https://cio.go.jp/node/2713
 
 ## AIシステムにおけるデータ利用の特性と取扱い上の留意点
@@ -192,5 +197,4 @@ AIを政府情報システムまたは政府が提供するサービス等で活
 - pdf: https://cio.go.jp/sites/default/files/uploads/documents/dp2020_01.pdf
 - docx: https://cio.go.jp/sites/default/files/uploads/documents//dp2020_01.docx
 - name_en: Characteristics of data use in AI system and Consideration in data handling
-- description_en: 
 - url_en: https://cio.go.jp/node/2711
