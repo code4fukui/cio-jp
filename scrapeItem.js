@@ -21,16 +21,30 @@ for (const d of list) {
   const dom = HTMLParser.parse(txt);
   const a = dom.querySelector("article");
   const item = {
-    title: a.querySelector("h1").text,
+    //title: a.querySelector("h1").text,
     author: a.querySelectorAll("p").filter(p => p.attributes["align"] == "right").map(p => p.text).join(", "),
-    pdf: "https://cio.go.jp" + a.querySelectorAll("a").find(a => a.attributes["class"] == "openw x-pdf ")?.attributes["href"],
-    docx: "https://cio.go.jp" + a.querySelectorAll("a").find(a => a.attributes["class"] == "openw x-doc")?.attributes["href"],
   };
-  console.log(item);
+  const as = a.querySelectorAll("a");
+  let npdf = 0;
+  let ndocx = 0;
+  for (const a of as) {
+    const base = "https://cio.go.jp";
+    switch (a.attributes.class) {
+      case "openw x-pdf ": {
+        npdf++;
+        item["pdf" + (npdf > 1 ? npdf : "")] = base + a.attributes["href"];
+        break;
+      }
+      case "openw x-doc": {
+        ndocx++;
+        item["docx" + (ndocx > 1 ? ndocx : "")] = base + a.attributes["href"];
+        break;
+      }
+    }
+  };
+  //console.log(item);
   //data.push(item);
-  d.author = item.author;
-  d.pdf = item.pdf;
-  d.docx = item.docx;
+  Object.assign(d, item);
 }
 
 const data = [];

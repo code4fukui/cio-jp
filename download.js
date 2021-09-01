@@ -14,4 +14,6 @@ const list = CSV.toJSON(await CSV.fetch("./discussionpaper.csv"));
 for (const d of list) {
   await download("pdf/", d.pdf);
   await download("docx/", d.docx);
+  await download("pdf/", d.pdf2);
+  await download("docx/", d.docx2);
 }
