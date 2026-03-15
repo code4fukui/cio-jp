@@ -1,5 +1,7 @@
 # cio-jp
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 Summary of Japanese government CIO portal discussion papers.
 
 ## Data

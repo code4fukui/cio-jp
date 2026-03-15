@@ -13,7 +13,7 @@
 - [政府CIOポータルの標準ガイドライン群用語集](https://github.com/code4fukui/stdwords-jp)
 - [ベースレジストリ](https://github.com/code4fukui/BaseRegistry)
 
-## how to make
+## 生成方法
 
 ```bash
 deno run -A scrapeList.js
@@ -22,6 +22,6 @@ deno run -A download.js
 deno run -A make.js
 ```
 
-## 出展
+## 出典
 
 - [ディスカッションペーパー | 政府CIOポータル](https://cio.go.jp/dp)
