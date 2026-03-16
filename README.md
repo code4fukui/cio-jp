@@ -27,3 +27,7 @@ deno run -A make.js
 ## Source
 
 - [Discussion Papers | Government CIO Portal](https://cio.go.jp/dp)
+
+## License
+
+MIT License — see [LICENSE](LICENSE).

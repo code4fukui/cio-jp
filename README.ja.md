@@ -1,6 +1,6 @@
 # cio-jp
 
-政府CIOポータルの[ディスカッションペーパー](https://cio.go.jp/dp)をまとめたリポジトリです。
+政府CIOポータルのディスカッションペーパーをまとめたリポジトリです。
 
 ## データ
 
@@ -25,3 +25,7 @@ deno run -A make.js
 ## 出典
 
 - [ディスカッションペーパー | 政府CIOポータル](https://cio.go.jp/dp)
+
+## ライセンス
+
+MIT License — [LICENSE](LICENSE) をご確認ください。
